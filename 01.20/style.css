@@ -1,0 +1,41 @@
+body {
+    background-color: firebrick;
+}
+h1 {
+    color: whitesmoke;
+    background-color: rgb(3, 85, 3);
+}
+
+p{
+    font-size: 20pt;
+    color: gold;
+}
+.tekstas{
+    font-size: 30pt;
+    color: whitesmoke;
+}
+
+ul{
+    font-size: 20pt;
+    color: whitesmoke;
+}
+
+h1.centre {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 40pt;
+}
+
+img {
+    width: 420;
+    border:2px solid #ffffff;
+}
+
+.pav {
+    width: 487;
+}
+
+#autorius{
+    font-size: 15pt;
+    text-align: center;
+}

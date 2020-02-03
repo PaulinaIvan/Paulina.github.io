@@ -1,0 +1,45 @@
+img {
+    height: 250;
+    border:2px solid #ffffff;
+}
+
+body {
+    background-color: mediumpurple;
+}
+
+h1.centre {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 40pt;
+}
+
+.pav:hover {
+    height: 280;
+    border:2px solid black;
+  }
+
+table{
+    background-color: peachpuff;
+    margin: auto;
+    border:2px solid black;
+}
+
+td{
+    width: 200pt;
+    height: 200pt;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 40pt;
+}
+
+p, li{
+    font-size: 20pt;
+    color: black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#autorius{
+    font-size: 15pt;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
