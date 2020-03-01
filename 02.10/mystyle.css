@@ -1,0 +1,88 @@
+.pagr
+{
+    margin: auto;
+    margin-top: 25px;
+    padding: 20px;
+    background-color: lightgreen;
+    width: 650px;
+    height: 190px;
+}
+
+.foto
+{
+    display:inline;
+    float: left;
+    background-color: lightgreen;
+    width: 270px;
+    height: 180px;
+}
+
+.antr, a
+{
+    color: black;
+    text-decoration:none;
+    font-size: 22pt;
+    display:inline;
+    float: left;
+    background-color: lightgreen;
+    width: 380px;
+    height: 40px;
+}
+
+a:hover{
+    font-size: 25pt;
+    color: dimgray;
+}
+
+.data
+{
+    color: dimgray;
+    display:inline;
+    float: left;
+    height: 30px;
+    background-color: lightgreen;
+    width: 380px;
+}
+
+.tekstas
+{
+    display:inline;
+    float: left;
+    background-color: lightgreen;
+    width: 380px;
+    height: 110px;
+}
+
+img{
+    height: 180px;
+}
+
+body{
+    background-color: purple;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 10pt;
+    text-decoration: none;
+}
+
+h1
+{
+    color: lightgreen;
+    text-align:center;
+    font-size: 60pt;
+}
+
+p
+{
+color:white;
+    padding: 10px;
+    font-size: 14pt;
+    text-align:left;
+}
+
+p.autorius
+{
+color: black;
+    text-align:center;
+    font-size: 10pt;
+}
+
